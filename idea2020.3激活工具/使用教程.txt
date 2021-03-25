@@ -1,0 +1,6 @@
+0.先安装主程序.安装完后打开,会提示激活,此时选择[Evaluate for free]=>[Evaluate] (如果是已经过了试用期.可用reset_script目录里面脚本进行重置.)
+1.解压文件,新建个项目并打开,再将JetbrainsPatch*.zip拖到软件右侧界面,会有如下提示,然后关闭软件,再打开(即重启软件,补丁不会自动重启软件).
+2.找到授权管理菜单(help=>Register=>Add new License),选择Activation Code,然后将ActivationCode.txt里面的内容复制过去粘贴,然后点Active.完事收工!
+
+如激活失败或更详细教程请查看(有配图哟),最新激活教程:
+http://www.520xiazai.com/link/go/jetbrains-2020-pojie

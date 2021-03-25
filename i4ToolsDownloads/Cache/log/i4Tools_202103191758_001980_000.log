@@ -1,0 +1,121 @@
+2021-03-19 17:58:44.469 LOG_ALARM logger id=0 key=Main name=i4Tools path=/Users/draven/Downloads/i4ToolsDownloads/Cache/log/ level=0 display=1 
+2021-03-19 17:58:45.189 LOG_DEBUG DOWNLOADIPA: downloading the config... 
+2021-03-19 17:58:45.194 LOG_DEBUG DEVICE-TABLE: setup internal. (configmgr.cpp):21 
+2021-03-19 17:58:45.199 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 17:58:45.435 LOG_DEBUG -----------------------0---------------------------------- 
+2021-03-19 17:58:46.586 LOG_DEBUG DOWNLOADIPA: cache/ipa/723.ipa succeded to download. (DeviceI4app.cpp):160 
+2021-03-19 17:58:50.753 LOG_DEBUG DOWNLOADIPA: cache/ipa/213.ipa succeded to download. (DeviceI4app.cpp):160 
+2021-03-19 17:58:51.397 LOG_DEBUG DOWNLOADIPA: cache/ipa/213js.zip succeded to download. (DeviceI4app.cpp):160 
+2021-03-19 17:58:52.076 LOG_DEBUG DOWNLOADIPA: cache/ipa/217js.zip succeded to download. (DeviceI4app.cpp):160 
+2021-03-19 17:58:52.829 LOG_DEBUG DOWNLOADIPA: cache/ipa/photo.ipa succeded to download. (DeviceI4app.cpp):160 
+2021-03-19 18:06:01.835 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 18:12:46.969 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 18:19:47.674 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 18:26:58.876 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 18:34:04.566 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 19:41:06.229 LOG_DEBUG ERROR: Unable to send a log! 
+2021-03-19 19:41:06.229 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 19:55:20.170 LOG_DEBUG ERROR: Unable to send a log! 
+2021-03-19 19:55:20.170 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:02:12.521 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:27:12.830 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:34:01.560 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:41:09.194 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:48:06.525 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:49:41.313 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):387 
+2021-03-19 20:49:41.329 LOG_DEBUG DEVICE-SHOT: ticket = 1, productType = , root.isNull = 0 (deviceinfoparser.cpp):372 
+2021-03-19 20:49:41.329 LOG_DEBUG DEVICE-SHOT: looking for productType = ... (deviceinfoparser.cpp):620 
+2021-03-19 20:49:41.330 LOG_DEBUG DEVICE-SHOT: setBackground = :/idevice/res/idevice/iPhone_default.png. (QLabelEx.cpp):687 
+2021-03-19 20:49:41.370 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:49:41.389 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):387 
+2021-03-19 20:49:41.396 LOG_DEBUG DEVICE-SHOT: ticket = 1, productType = , root.isNull = 0 (deviceinfoparser.cpp):372 
+2021-03-19 20:49:41.396 LOG_DEBUG DEVICE-SHOT: looking for productType = ... (deviceinfoparser.cpp):620 
+2021-03-19 20:49:41.396 LOG_DEBUG DEVICE-SHOT: setBackground = :/idevice/res/idevice/iPhone_default.png. (QLabelEx.cpp):687 
+2021-03-19 20:49:41.401 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:49:41.710 LOG_DEBUG CONNECT-TASK: Reading result(0), ticket(1)
+ (task_connection.cpp):59 
+2021-03-19 20:49:41.710 LOG_DEBUG XX-AUTH checking... 
+2021-03-19 20:49:44.313 LOG_DEBUG XX-AUTH: Result(0), Numbers(1,2,3,4,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37), Retry(0). (DeviceI4app.cpp):453 
+2021-03-19 20:49:44.335 LOG_DEBUG XX-INSTALL APP checking... 
+2021-03-19 20:49:56.710 LOG_DEBUG CONNECT-TASK-WAITFORAU: Timeout. 
+2021-03-19 20:49:56.736 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):387 
+2021-03-19 20:49:56.739 LOG_DEBUG DEVICE-SHOT: ticket = 1, productType = iPhone13,4, root.isNull = 0 (deviceinfoparser.cpp):372 
+2021-03-19 20:49:56.739 LOG_DEBUG DEVICE-SHOT: looking for productType = iPhone13,4... (deviceinfoparser.cpp):620 
+2021-03-19 20:49:56.742 LOG_DEBUG DEVICE-SHOT: setBackground = :/idevice/res/idevice/iPhone12Pro.png. (QLabelEx.cpp):687 
+2021-03-19 20:49:56.745 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:49:56.754 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:49:56.763 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:49:57.132 LOG_DEBUG -----------------------20507---------------------------------- 
+2021-03-19 20:49:57.252 LOG_DEBUG -----------------------20100---------------------------------- 
+2021-03-19 20:49:57.399 LOG_DEBUG XX-SEND-LOG: sending ... 
+2021-03-19 20:49:57.482 LOG_DEBUG -----------------------20103---------------------------------- 
+2021-03-19 20:49:58.453 LOG_DEBUG -----------------------25002---------------------------------- 
+2021-03-19 20:49:58.579 LOG_DEBUG XX-REMOVE-OLD-APP: checking ... 
+2021-03-19 20:49:58.579 LOG_DEBUG XX-UNINSTALL-APP starting... 
+2021-03-19 20:49:58.579 LOG_DEBUG REAL-TIME-LOG: sending log(0) (WebLogger.cpp):275 
+2021-03-19 20:49:58.680 LOG_DEBUG -----------------------70001---------------------------------- 
+2021-03-19 20:49:58.758 LOG_DEBUG -----------------------20102---------------------------------- 
+2021-03-19 20:49:59.011 LOG_DEBUG REMOV-OLD: just remove(com.pd.A4Player). (DeviceI4app.cpp):1162 
+2021-03-19 20:49:59.040 LOG_DEBUG REMOV-OLD: just remove(com.a.emoji). (DeviceI4app.cpp):1162 
+2021-03-19 20:49:59.075 LOG_DEBUG REMOV-OLD: just remove(com.diary.mood). (DeviceI4app.cpp):1162 
+2021-03-19 20:49:59.110 LOG_DEBUG REMOV-OLD: just remove(com.i4.picture). (DeviceI4app.cpp):1162 
+2021-03-19 20:49:59.157 LOG_DEBUG REMOV-OLD: just remove(com.aswallpaper.mito). (DeviceI4app.cpp):1162 
+2021-03-19 20:49:59.192 LOG_DEBUG REMOV-OLD: just remove(com.aisi.aisiring). (DeviceI4app.cpp):1162 
+2021-03-19 20:49:59.525 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:50:00.130 LOG_DEBUG -----------------------20500---------------------------------- 
+2021-03-19 20:50:06.976 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 20:50:12.750 LOG_DEBUG SECOND-AUTH: Result(0), Numbers(38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60), Retry(1). (task_connection.cpp):366 
+2021-03-19 20:50:13.934 LOG_DEBUG REAL-TIME-LOG: sending log(0) (WebLogger.cpp):275 
+2021-03-19 20:50:14.008 LOG_DEBUG -----------------------70001---------------------------------- 
+2021-03-19 20:50:14.086 LOG_DEBUG -----------------------20102---------------------------------- 
+2021-03-19 20:50:36.993 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 20:51:28.446 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 20:52:39.323 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 20:54:07.559 LOG_DEBUG -----------------------20307---------------------------------- 
+2021-03-19 20:54:08.977 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 20:54:27.579 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:54:27.586 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):387 
+2021-03-19 20:54:27.591 LOG_DEBUG DEVICE-SHOT: ticket = 1, productType = iPhone13,4, root.isNull = 0 (deviceinfoparser.cpp):372 
+2021-03-19 20:54:27.668 LOG_DEBUG -----------------------20202---------------------------------- 
+2021-03-19 20:54:28.557 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:54:53.380 LOG_DEBUG -----------------------20307---------------------------------- 
+2021-03-19 20:54:58.015 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:54:58.023 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):387 
+2021-03-19 20:54:58.027 LOG_DEBUG DEVICE-SHOT: ticket = 1, productType = iPhone13,4, root.isNull = 0 (deviceinfoparser.cpp):372 
+2021-03-19 20:54:58.110 LOG_DEBUG -----------------------20202---------------------------------- 
+2021-03-19 20:54:58.963 LOG_DEBUG DEVICE-TABLE: local version=[7.98.23.009] (deviceinfoparser.cpp):26 
+2021-03-19 20:55:00.101 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 20:55:24.819 LOG_DEBUG -----------------------10129---------------------------------- 
+2021-03-19 20:55:26.903 LOG_DEBUG -----------------------10100---------------------------------- 
+2021-03-19 20:55:28.855 LOG_DEBUG -----------------------20307---------------------------------- 
+2021-03-19 20:55:58.995 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 20:58:09.553 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:00:42.636 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:02:03.585 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:03:39.771 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:06:50.427 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:09:02.029 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:10:26.109 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:14:20.748 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:16:00.721 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:18:39.933 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:20:09.254 LOG_DEBUG -----------------------20307---------------------------------- 
+2021-03-19 21:23:11.369 LOG_DEBUG ERROR: Unable to send a log! 
+2021-03-19 21:23:11.369 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:23:11.578 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:28:03.066 LOG_DEBUG QWorkerBatterInfo UPDATED. 
+2021-03-19 21:30:18.866 LOG_DEBUG ERROR: Unable to send a log! 
+2021-03-19 21:30:18.866 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:37:01.252 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:38:46.705 LOG_DEBUG setImportCameraCancel!!!!!!!!!! 
+2021-03-19 21:38:47.042 LOG_DEBUG -----------------------25002---------------------------------- 
+2021-03-19 21:38:51.881 LOG_DEBUG QWorkerBatterInfo-Destoryed! 
+2021-03-19 21:38:52.097 LOG_DEBUG setImportCameraCancel!!!!!!!!!! 
+2021-03-19 21:44:03.154 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:51:13.711 LOG_DEBUG ERROR: Unable to send a log! 
+2021-03-19 21:51:13.711 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 21:58:05.905 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 22:05:01.359 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 22:12:17.621 LOG_DEBUG ERROR: Unable to send a log! 
+2021-03-19 22:12:17.621 LOG_DEBUG -----------------------10189---------------------------------- 
+2021-03-19 22:19:07.599 LOG_DEBUG -----------------------10189---------------------------------- 
